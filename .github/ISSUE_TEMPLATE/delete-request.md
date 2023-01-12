@@ -1,8 +1,8 @@
 ---
 name: ブロック解除リクエスト
 about: サイトのブロック解除を申請する
-title: ''
-labels: 🐛bug
+title: '削除申請: '
+labels: 🙇ブロック解除申請
 assignees: ''
 ---
 
