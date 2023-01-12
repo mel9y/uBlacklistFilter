@@ -5,7 +5,7 @@ Google Chrome用拡張機能 **[uBlocklist](https://chrome.google.com/webstore/d
 ## 使い方
 
 1. [uBlocklist](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe) をインストール
-2. [サブスクリプションリンク]() をクリック
+2. [サブスクリプションリンク](https://iorate.github.io/ublacklist/subscribe?name=m2en-uBlacklistFilter&url=https://raw.githubusercontent.com/m2en/uBlacklistFilter/main/list/uBlacklist-m2en.txt) をクリック
 3. **追加** をクリック
 
 ## ブロック対象になる特徴のサイト
@@ -28,7 +28,7 @@ Google Chrome用拡張機能 **[uBlocklist](https://chrome.google.com/webstore/d
 
 ### 新しいサイトを追加する
 
-新しいサイトを追加する場合は [list/uBlacklist-m2en.txt]() を改行ごとに編集してください。
+新しいサイトを追加する場合は [list/uBlacklist-m2en.txt](./list/uBlacklist-m2en.txt) を改行ごとに編集してください。
 
 使える正規表現等は [uBlacklistのドキュメント](https://iorate.github.io/ublacklist/docs/advanced-features) を確認してください。
 
