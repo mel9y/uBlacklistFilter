@@ -5,8 +5,8 @@ on:
     branch:
       - main
     paths:
-    - '.github/labels.yaml'
-    - '.github/workflows/labels.yaml'
+    - '.github/labels.yml'
+    - '.github/workflows/labels.yml'
   workflow_dispatch:
 
 jobs:
