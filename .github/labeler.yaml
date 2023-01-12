@@ -1,0 +1,6 @@
+🔮workflow (gh-actions):
+  - .github/workflows/*.yml
+  - .github/*.yml
+
+👮ブロック申請:
+  - list/*.yml
