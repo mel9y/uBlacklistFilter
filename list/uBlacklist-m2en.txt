@@ -1,12 +1,12 @@
-!# プログラミングスクール系
+!#プログラミングスクール系
 
 *//www.zaico.co.jp/*
 *//*.tech-camp.in/*
 *//*.tsukadaryo.com/*
 
-!# なんJ AdGuard部さん 推奨 (ライセンス CC0)
+!#なんJ AdGuard部さん 推奨 (ライセンス CC0)
 
-!## 悪質まとめサイト
+!##悪質まとめサイト
 
 *//*.yaraon-blog.com/*
 *//*.blog.esuteru.com/*
@@ -30,7 +30,7 @@
 *//*.catmiimi.com/*
 *//nokuo.blog.jp/*
 
-!## 低質キュレーションサイト
+!##低質キュレーションサイト
 
 *//*.entamescramble.com/*
 *//*.androidogate.net/*
@@ -58,7 +58,7 @@
 *//*.geekseed.jp/*
 *//*.myjitsu.jp/*
 
-!## その他の悪質・低質サイト
+!##その他の悪質・低質サイト
 
 *//*.entamescramble.com/*
 *//*.androidogate.net/*
