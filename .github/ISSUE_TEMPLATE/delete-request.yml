@@ -1,0 +1,28 @@
+name: ブロック解除リクエスト
+description: このフィルターでブロックされているサイトを解除する
+labels: ["🙇ブロック解除申請"]
+body:
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: リクエストの提出を行う前に
+      description: バグレポートの提出を行う前に以下の項目を確認してください
+      options:
+        - label: すでに[同じリクエストを提出するIssue](https://github.com/m2en/ublacklistFilter/issues?q=)が存在しないか確認しましたか?
+          required: true
+        - label: README.md に記載されたブロックの基準を満たしていないサイトですか? (満たしているサイトの場合は解除できません。しません。)
+          required: true
+  - type: textarea
+    id: unblock-site-url
+    attributes:
+      label: ブロックを解除するサイトのURL
+      description: ブロックを解除するサイトのURLを記入します。 `https://`, `http://` から始まっていることが条件で、`https://`, `http://` とドメインだけを含めます。
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: ブロックを解除してほしい理由
+      description: ブロックを解除してほしい理由を記載します。
+    validations:
+      required: true
