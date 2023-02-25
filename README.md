@@ -54,4 +54,4 @@ Issueだけでも結構です。
   - 公式のブロックリストです。
   - [日本語版](https://iorate.github.io/ublacklist/ja/subscriptions)
 
-また、見つけ次第 [m2enのStarリスト "🚫 uBlacklist"](https://github.com/stars/m2en/lists/ublacklist) にまとめていきます。
+また、見つけ次第 [m2enのStarリスト "🚫 uBlacklist"](https://github.com/stars/m2en/lists/ublock) にまとめていきます。
